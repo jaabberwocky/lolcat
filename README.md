@@ -10,7 +10,7 @@
 
  Written in Rust, because... why not?
 
-<img src="img/render1694341594364.gif" >
+<img src="img/terminal.gif" >
 
  ## Usage
 
